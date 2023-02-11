@@ -8,13 +8,16 @@
 <br>
 <div>
 <br>
+  ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2devbaloch7777%2raganork-md)
   
 <a href="https://raganork.souravkl11.xyz/deploy" target="blank"><img align="center" src="https://i.imgur.com/gtK4XLX.png" alt="Deploy bot" height="112" width="310" /></a>
   <div>
 <br>
 <div>
   <br>
-(https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2Fsanuwaofficial%2FAQUABOT-MD)
+
   
 ## _[Koyeb: How to deploy](https://github.com/souravkl11/raganork-md/wiki/Deploying-with-Koyeb)_
 
