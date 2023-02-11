@@ -1,7 +1,6 @@
-FROM quay.io/souravkl11/raganork:multidevice
+RUN worker: npm i -g pm2 && pm2 start Anyaindex.js && pm2 save && pm2 logs
 
-RUN git clone https://github.com/souravkl11/raganork-md /skl/Raganork
-WORKDIR /skl/Raganork
-ENV TZ=Asia/Kolkata
-RUN yarn install --network-concurrency 1
-CMD ["node", "index.js"]
+
+
+
+
