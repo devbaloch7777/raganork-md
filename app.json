@@ -78,14 +78,51 @@
             "required": true
              
         }
+    {
+
+
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+
+  "buildpacks": [
+
+    {
+
+      "url": "heroku/nodejs"
+
     },
-    "addons": [{
-      "plan": "heroku-postgresql"
-    }],
-    "buildpacks": [{
-      "url": "heroku-community/apt"
-      },
-      {
+
+    {
+
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+
+    },
+
+    {
+
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-      }]
-  }
+
+    }
+
+    ],
+
+     "addons": [
+
+		{
+
+			"plan": "heroku-postgresql"
+
+		}
+
+	]
+
+}
+    
+      
+    
+    
+      
+      
+      
+      
+      
+      
